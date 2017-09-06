@@ -1,0 +1,1 @@
+# Minimal-Elegant-Accordion-Slider-With-jQuery-and-CSS3
